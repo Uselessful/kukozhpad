@@ -1,0 +1,15 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0.1)-3*
+G04 #@! TF.CreationDate,2020-04-26T21:35:36+05:00*
+G04 #@! TF.ProjectId,amoeba-4x4-keypad,616D6F6562612D3478342D6B65797061,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Glue,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.0.1)-3) date 26.04.2020 21:35:36*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+M02*
